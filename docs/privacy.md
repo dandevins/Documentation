@@ -6,6 +6,8 @@ nav_order: 2
 
 ---
 
+# Privacy Policy
+
 **The views expressed are those of the author and do not reflect the official policy or position of any organization.**
 
 Your privacy is important to us. It is our policy to respect your privacy regarding any information we may collect from you across our website, http://www.dandevins.com, and other sites we own and operate.
